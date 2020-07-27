@@ -1,1 +1,1 @@
-linkedin: https://www.linkedin.com/in/mederbek-dzhumabaev-88665827/
+linkedin: www.linkedin.com/in/mederd
