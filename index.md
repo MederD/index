@@ -4,5 +4,5 @@ Coming soon...
 
 
 
-<a href="contacts.md">Contacts</a>
+<a href="contacts.html">Contacts</a>
 
