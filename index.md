@@ -3,6 +3,6 @@
 Coming soon...
 
 
-Contacts:
+
 <a href="contacts.md">Contacts</a>
 
