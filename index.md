@@ -1,8 +1,6 @@
-## Welcome to MederD GitHub Pages
+## Welcome to Terraform related GitHub Pages.
+Terraform related hands-on templates:
 
-Coming soon...
-
-
-
-<a href="contacts.html">Contacts</a>
+1. [**Infrastructure provisioning**](https://github.com/MederD/terraform-us-east-2)
+2. [**Adding ASG and ELB**](https://github.com/MederD/tf-asg-elb)
 
